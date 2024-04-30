@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Ramadan!;" />
 </h1>
 
-<h3 align="center">A passionate data enthusiast from Egypt 🇨🇦</h3>
+<h3 align="center">A passionate data enthusiast from Egypt </h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
 
 
-💬 Ask me about **SQL,Data warehouse,ETL... or anything related to data [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **SQL, Data warehouse, ETL , BI... or anything related to data field**
 
 
 
