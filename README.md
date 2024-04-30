@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="momarramadan1425@gmail.com">
+  <a href="omarramadan1425@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href=https://www.linkedin.com/in/omar-ramadan-72a8ab288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -52,7 +52,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Achievments ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
