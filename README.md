@@ -45,7 +45,7 @@
 <h2 align="center">⚡ Achievments ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github.com/omarramadan22/OmarRamadan22/blob/main/hackerrank.PNG" alt="streak stats"/>
+  <img width=390 src="https://github.com/omarramadan22/OmarRamadan22/blob/main/hackerrank.PNG" />
   <img width=390 src="https://github.com/omarramadan22/OmarRamadan22/blob/main/data_lemur.PNG" />
   <br/>
   <img width=325 align="center" src="https://github.com/omarramadan22/OmarRamadan22/blob/main/leetcode_50_questions_1.png" alt="top langs" />
