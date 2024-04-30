@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying at **ITI**
+  I’m currently studying at **ITI**
  
 
 
