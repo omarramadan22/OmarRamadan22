@@ -45,7 +45,7 @@
 <h2 align="center">⚡ Achievments ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="hhttps://github.com/omarramadan22/OmarRamadan22/blob/main/hackerrank.PNG" alt="streak stats"/>
+  <img width=390 src="https://github.com/omarramadan22/OmarRamadan22/blob/main/hackerrank.PNG" alt="streak stats"/>
   <img width=390 src="https://github.com/omarramadan22/OmarRamadan22/blob/main/data_lemur.PNG" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
